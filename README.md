@@ -2,6 +2,9 @@
 Behavioral and Cognitive Robotics _Exercises
 
 the source code of one of the classic control problems, e.g. the pendulum.py file,
+
+
+
  what is encoded in the observation vector :
  ## Observation Space
     The observations correspond to the x-y coordinate of the pendulum's end, and its angular velocity.
